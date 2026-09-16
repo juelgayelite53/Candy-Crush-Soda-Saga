@@ -232,3 +232,6 @@ Candy Crush Soda Saga is offered as a complete free version with all features an
 ---
 
 Dive into the sweet world of Candy Crush Soda Saga today! Download now and start matching those candies!
+
+---
+**Last updated:** 2026-09-16 17:26:37 UTC
